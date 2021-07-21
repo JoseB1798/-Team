@@ -1,0 +1,2 @@
+First install (npm install inquirer) on your termianl
+You have to run Main.js file which will take the input from the user
